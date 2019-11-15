@@ -2,17 +2,9 @@
 	margin: auto;
 	width: 100%;
 	text-align: center;
-	border: 1px solid #87C6B6;
+	border: 1px solid #FB7B84;
 	color: #ffffff;
-	background-color: #87C6B6;
-	padding: 10px;
-}
-
-.banner{
-	color: #ffffff;
-	background-color: #ca0000;
-	width: 100%;
-	text-align: center;
+	background-color: #FB7B84;
 	padding: 10px;
 }
 
@@ -50,7 +42,7 @@ div.panel.show {
 
 .tztimer {
 	text-align: center;
-	background-color: #87C6B6;
+	background-color: #FB7B84;
 	color: white;
 	font-size: 15px;
 	padding: 10px;
